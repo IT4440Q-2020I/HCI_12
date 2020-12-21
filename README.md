@@ -6,7 +6,3 @@
 3. Phạm Quang Duy - 20158063
 4. Phạm Hồng Sơn - 20148985
 5. Nguyễn Phan Huy - 20168231
-
-# Hướng dẫn chạy chương trình
-Clone repo về máy
-Mở f
